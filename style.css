@@ -14,23 +14,28 @@ font-size: 22px;
 width: 100%;
 text-align:center;}
 
+.stat {
+border: 1px solid #000000;
+}
+    
+
 .right:hover {
 color: #000000;
 background-image: url(5.jpg);
-border: 2px solid #000000;
-font-size: 21px;
-transform: scale(1.05,1.05);
+border: 1px solid #000000;
+font-size: 20px;
+transform: scale(1.05,1.00);
 text-align:left;
 }
 
 .ima:hover {
-border: 0px solid #000000;
+border: 1px solid #000000;
 transform: scale(1.1,1.1);
 text-align:left;
 }
 
 .ima {
-border: 0px solid #000000;
+border: 1px solid #000000;
 text-align:left;}
 
 .ssl {
@@ -55,8 +60,8 @@ color: #550000;
 color: #000000;
 background-image: url(5.jpg);
 border: 2px solid #000000;
-font-size: 21px;
-transform: scale(0.00,0.00);
+font-size: 20px;
+transform: scale(1.05,1.00);
 text-align:left;
 }
 .niz {
@@ -71,14 +76,14 @@ text-align:center;
 .niz:hover {
 color: #000000;
 background-image: url(5.jpg);
-border: 2px solid #000000;
-font-size: 21px;
-transform: scale(0.00,0.00);
+border: 1px solid #000000;
+font-size: 20px;
+transform: scale(1.05,1.00);
 text-align:center;
 }
 
 .ima2:hover {
 border: 0px solid #000000;
-transform: scale(2,2);
+transform: scale(1.5,1.5);
 text-align: center;
 }
