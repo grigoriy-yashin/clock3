@@ -1,0 +1,84 @@
+.right {
+color: #000000;
+background-image: url(5f.jpg);
+border: 1px solid #000000;
+font-size: 20px;
+width: 100%;
+text-align:left;}
+
+.hright {
+color: #000000;
+background-image: url(5.jpg);
+border: 1px solid #000000;
+font-size: 22px;
+width: 100%;
+text-align:center;}
+
+.right:hover {
+color: #000000;
+background-image: url(5.jpg);
+border: 2px solid #000000;
+font-size: 21px;
+transform: scale(1.05,1.05);
+text-align:left;
+}
+
+.ima:hover {
+border: 0px solid #000000;
+transform: scale(1.1,1.1);
+text-align:left;
+}
+
+.ima {
+border: 0px solid #000000;
+text-align:left;}
+
+.ssl {
+color: #000000;
+text-decoration:none;
+}
+
+.ssl2 {
+color: #002200;
+
+}
+
+.ssl:active {
+color: #005500;
+}
+
+.ssl2:active {
+color: #550000;
+}
+
+.nas {
+color: #000000;
+background-image: url(5.jpg);
+border: 2px solid #000000;
+font-size: 21px;
+transform: scale(1.05,1.05);
+text-align:left;
+}
+.niz {
+color: #000000;
+background-image: url(5f.jpg);
+border: 1px solid #000000;
+font-size: 20px;
+width: 40%;
+text-align:center;
+
+}
+.niz:hover {
+color: #000000;
+background-image: url(5.jpg);
+border: 2px solid #000000;
+font-size: 21px;
+transform: scale(1.05,1.05);
+text-align:center;
+}
+
+.ima2:hover {
+border: 0px solid #000000;
+transform: scale(2,2);
+text-align: center;
+}
